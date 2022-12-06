@@ -1,6 +1,6 @@
 # React Native Push Notification
 
-```
+
 ## What's inside
 
 - UI/UX Design components from [NativeBase](https://docs.nativebase.io/?utm_source=HomePage&utm_medium=header&utm_campaign=NativeBase_3)
