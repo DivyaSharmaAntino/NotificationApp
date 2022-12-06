@@ -1,9 +1,5 @@
 # React Native Push Notification
 
-## Usage
-
-```sh
-npx react-native init SomeApp --template https://github.com/DivyaSharmaAntino/NotificationApp
 ```
 ## What's inside
 
